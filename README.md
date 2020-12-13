@@ -1,4 +1,4 @@
-# Simple Todo App with Checkbox of complition items in Todo 
+# Simple Todo App with Checkbox for marking complition items in Todo 
 
 ![alt text](https://github.com/ishu-harsh/react_Simple_Todo_App/blob/main/public/AppScreenShot.png)
 
