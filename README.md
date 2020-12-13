@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Simple Todo App with Checkbox of complition items in Todo 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![alt text](https://github.com/ishu-harsh/react_Simple_Todo_App/blob/main/public/AppScreenShot.png)
 
 ## Available Scripts
 
